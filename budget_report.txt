@@ -1,0 +1,7 @@
+----- Budget Summary -----
+food: 150.0
+rent: 1200.0
+sport: 200.0
+
+Total Spent: 1550.0
+Remaining Budget: 450.0
