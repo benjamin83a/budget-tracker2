@@ -22,3 +22,16 @@ I built this project to better understand developer workflows, GitHub repositori
 - Add charts
 - Add monthly history
 - Improve category management
+
+## Technologies Used
+
+- Python
+- GitHub
+- Matplotlib
+
+## Current Features
+
+- Expense tracking
+- Budget calculation
+- CSV export
+- Spending visualization
